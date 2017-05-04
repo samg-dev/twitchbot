@@ -1,0 +1,2 @@
+# twitchbot
+Customizable twitch bot
